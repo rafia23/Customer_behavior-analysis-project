@@ -36,7 +36,7 @@ The dataset and business scenario used in this project were provided as part of 
 ## 🛠️ Data Preparation
 - Checked for missing values and data inconsistencies.
 - Verified data types for dates, times, quantities, and prices.
-- Created calculated fields for Month, Day of Week, and Hour of Day to support time-based analysis.
+- Created calculated fields for Revenue, Month, Month Name, Weekday, Name of Weekday, and Hour of Day to support time-based analysis. 
 - Organized the data using Excel Pivot Tables and Pivot Charts for dashboard development.
 
 ## ✨ Dashboard Features
@@ -59,6 +59,48 @@ The dataset and business scenario used in this project were provided as part of 
 **Lower Manhattan:**
 ![Lower Manhattan](lower_manhattan_dashboard.PNG)
 
+# 📈 Dashboard Walkthrough
+
+Provides a high-level overview of coffee shop sales performance, customer purchasing patterns, product popularity, and revenue trends across multiple store locations.
+
+# Walkthrough of Key Visuals
+
+**Filter Panel (Location Slicer)**
+- Allows users to filter all dashboard visuals by coffee shop location.
+- Available locations:
+  - Astoria
+  - Hell's Kitchen
+  - Lower Manhattan
+- Enables comparison of sales performance across different store branches.
+
+**Total Revenue by Month (Line Chart)**
+- Displays the monthly revenue trend over the selected period.
+- Helps identify revenue growth, seasonal patterns, and sales performance changes over time.
+- Revenue increased steadily from January to June, indicating positive business growth.
+
+**Transactions by Hour of Day (Column Chart)**
+- Shows the number of transactions completed during each hour of operation.
+- Helps identify peak business hours and customer purchasing patterns.
+- Useful for workforce planning and inventory management.
+
+**Transactions by Product Category (Horizontal Bar Chart)**
+- Displays the total number of transactions for each product category.
+- Helps identify the most popular product categories among customers.
+- Coffee and Tea categories generate the highest transaction volumes, while packaged products contribute relatively fewer sales.
+
+**Top 15 Products (Table)**
+- Lists the top-performing products based on transaction volume and revenue.
+- Helps identify best-selling products and high-revenue items.
+- Useful for product promotion, inventory planning, and menu optimization.
+
+**Transactions by Day of Week (Column Chart)**
+- Shows transaction counts across different days of the week.
+- Helps identify the busiest and slowest days for the business.
+- Useful for staffing decisions, promotional campaigns, and operational planning.
+
+**Key Insights**
+- Summarizes the major findings and business insights derived from the dashboard analysis.
+
 
 ## 🔍 Key Insights
 
@@ -76,6 +118,35 @@ The dataset and business scenario used in this project were provided as part of 
 * Launch promotions during off-peak periods.
 * Strengthen customer loyalty programs.
 * Improve weekend performance through targeted promotions.
+
+## 💼 Business Impact
+
+**Workforce Planning**
+- Identified peak sales hours (8–10 AM) to support efficient staff scheduling.
+
+**Inventory Management**
+- Highlighted top-selling categories and products to improve inventory allocation.
+
+**Revenue Growth Opportunities**
+- Identified opportunities for upselling and bundled product promotions.
+
+**Location Performance Monitoring**
+- Enabled comparison of sales performance across multiple store locations.
+
+**Targeted Marketing**
+- Identified low-performing periods to support promotional campaign planning.
+
+**Data-Driven Decision Making**
+- Consolidated key business metrics into a single interactive dashboard for faster analysis.
+
+## 🎯 Potential Business Outcomes
+
+- Improved operational efficiency.
+- Better customer experience during peak hours.
+- Increased revenue through targeted promotions.
+- More effective inventory utilization.
+- Faster identification of sales trends.
+- Better strategic decision-making across locations.
 
 ## 🧰 Tools Used
 
