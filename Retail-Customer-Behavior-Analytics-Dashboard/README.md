@@ -189,27 +189,27 @@ Analyzes customer loyalty behavior and purchasing patterns across different cust
 # 📊 Key Business Insights
 
 **🔹 Loyal Customers Drive Business Revenue**
-Loyal customers represent **79.9% of customers** and generate approximately **$185.52K in revenue**, making them the company’s most valuable customer segment.
+- Loyal customers represent **79.9% of customers** and generate approximately **$185.52K in revenue**, making them the company’s most valuable customer segment.
 
----
+
 
 **🔹 Clothing is the Top Revenue-Generating Category**
-The Clothing category contributes nearly **45% of total revenue**, outperforming all other product categories.
+- The Clothing category contributes nearly **45% of total revenue**, outperforming all other product categories.
 
----
+
 
 **🔹 Young Adults Generate the Highest Revenue**
-Young adults contribute the highest share of customer spending, indicating stronger purchasing engagement among younger demographics.
+- Young adults contribute the highest share of customer spending, indicating stronger purchasing engagement among younger demographics.
 
----
+
 
 **🔹 Non-Subscribers Dominate the Customer Base**
-Approximately **73% of customers are non-subscribers**, highlighting a strong opportunity to improve subscription conversion strategies.
+- Approximately **73% of customers are non-subscribers**, highlighting a strong opportunity to improve subscription conversion strategies.
 
----
+
 
 **🔹 Male Customers Represent a Larger Share of the Customer Base**
-Male customers account for a noticeably higher percentage of total customers compared to female customers, indicating an imbalance in customer distribution and purchasing activity.
+- Male customers account for a noticeably higher percentage of total customers compared to female customers, indicating an imbalance in customer distribution and purchasing activity.
 
 
 ---
@@ -218,16 +218,16 @@ Male customers account for a noticeably higher percentage of total customers com
 # 💡 Business Recommendations
 
 **🔹 Strengthen Customer Retention Programs**
-Invest in loyalty rewards, personalized offers, and retention-focused campaigns to maximize customer lifetime value.
+- Invest in loyalty rewards, personalized offers, and retention-focused campaigns to maximize customer lifetime value.
 
 **🔹 Expand High-Performing Product Categories**
-Prioritize inventory planning and targeted promotions for high-performing categories such as Clothing.
+- Prioritize inventory planning and targeted promotions for high-performing categories such as Clothing.
 
 **🔹 Improve Subscription Conversion Rates**
-Encourage more customers to subscribe through exclusive discounts, rewards, and personalized recommendations.
+- Encourage more customers to subscribe through exclusive discounts, rewards, and personalized recommendations.
 
 **🔹 Develop Targeted Marketing Strategies by Age Group**
-Since young adults contribute the highest share of revenue, the company should prioritize campaigns tailored to this segment while testing targeted strategies to improve engagement in lower-performing demographics with growth potential.
+- Since young adults contribute the highest share of revenue, the company should prioritize campaigns tailored to this segment while testing targeted strategies to improve engagement in lower-performing demographics with growth potential.
 
 ---
 
