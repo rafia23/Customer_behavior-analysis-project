@@ -55,22 +55,22 @@ The analysis was conducted using the `listings.csv` dataset from a larger Airbnb
 ```text
 Listings.csv
       ↓
-Data Cleaning & Validation
+Data Cleaning & Validation (Pandas)
       ↓
-Data Transformation & Aggregation
+Data Transformation & Aggregation (Pandas)
       ↓
-Exploratory Data Analysis
+Exploratory Data Analysis (Pandas)
       ↓
-Visualization
+Visualization (Seaborn & Matplotlib)
       ↓
-Automated Excel Dashboard Generation
+Automated Excel Dashboard Creation & Formatting (openpyxl)
 ```
 
 ---
 
 ## 📈 Dashboard Features
 
-* KPI summary cards
+* KPI summary table
 * Average Airbnb price trends over time
 * New host growth analysis
 * Price comparison by accommodation size
